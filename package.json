@@ -1,0 +1,24 @@
+{
+  "name": "socket-console-app",
+  "version": "1.0.0",
+  "description": "SocketConsoleApp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christian-Lemos/SocketConsoleApp.git"
+  },
+  "author": "Christian Lemos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christian-Lemos/SocketConsoleApp/issues"
+  },
+  "homepage": "https://github.com/Christian-Lemos/SocketConsoleApp#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "ip": "^1.1.5",
+    "lodash": "^4.17.11"
+  }
+}
